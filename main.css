@@ -1,14 +1,13 @@
 .front {
-   background-image: url(https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2018-12/10889-The_Watermelon_Diet_Fact_or_Fiction-_1296x728-header.jpg?w=1155);
+   background-image: url(https://i.ndtvimg.com/i/2018-05/watermelon_620x330_51526041413.jpg);
     font-family: sans-serif;
-    background-attachment: fixed;
-  font-weight: bold;
+    background-attachment: scroll;
   }
 .hh {
   background-color: #ea5169;
   text-align: center;
-  padding: 5% 15%;
-  margin: 0;
+  padding: 10% 15%;
+  margin: auto;
 
 }
 .picturestop {
@@ -19,11 +18,9 @@ margin: auto;
 .pictures {
 display: flex;
 padding:0% 5%;
-justify-content: space-between;
-
-}
-.pictures img {
-  border-radius: 80%;
+justify-content:;
+{ background-color: lime;
+  font-family: sans-serif;
 }
 h2 {
   font-weight: 100;
@@ -32,12 +29,9 @@ h2 {
 #list{
   list-style-type: none;
   padding: 0 5%;
-  text-align: left;
-  justify-content: space-around;
+  text-align: center;
 }
-footer {
-  display: grid;
-  margin: 0;
-  background-color:#ea5169;
-  padding: 0 5%;
+.bottm{
+
+  background-color:red;
 }
