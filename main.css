@@ -1,0 +1,12 @@
+h1 {
+  background-color: #ea5169;
+  text-align: center;
+  padding: 2% 15%;
+  margin: auto;
+
+}
+.pictures {
+  display: flex;
+padding:2% 5%;
+justify-content: center;
+}
