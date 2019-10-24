@@ -1,13 +1,17 @@
-h1 {
+.front {
+   background-image: url(https://i.ndtvimg.com/i/2018-05/watermelon_620x330_51526041413.jpg);
+    font-family: sans-serif;
+    background-attachment: scroll;
+  }
+.hh {
   background-color: #ea5169;
   text-align: center;
-  padding: 2% 15%;
+  padding: 10% 15%;
   margin: auto;
 
 }
 .picturestop {
   display: flex;
-wding:0% 5%;
 justify-content: center;
 margin: auto;
 }
@@ -15,7 +19,7 @@ margin: auto;
 display: flex;
 padding:0% 5%;
 justify-content:;
-#web {
+{ background-color: lime;
   font-family: sans-serif;
 }
 h2 {
@@ -27,7 +31,7 @@ h2 {
   padding: 0 5%;
   text-align: center;
 }
-.bottom{
-  position: fixed;
-  background-color:#ea5169;
+.bottm{
+
+  background-color:red;
 }
