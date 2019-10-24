@@ -5,8 +5,25 @@ h1 {
   margin: auto;
 
 }
-.pictures {
+.picturestop {
   display: flex;
-padding:2% 5%;
+wding:0% 5%;
 justify-content: center;
+margin: auto;
+}
+.pictures {
+display: flex;
+padding:0% 5%;
+justify-content:;
+#web {
+  font-family: sans-serif;
+}
+h2 {
+  font-weight: 100;
+  font-size: bold;
+  }
+#list{
+  list-style-type: none;
+  padding: 0 5%;
+  text-align: center;
 }
